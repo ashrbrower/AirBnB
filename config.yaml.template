@@ -1,0 +1,11 @@
+mongodb:
+  uri: mongodb+srv://<db_username>:<db_password>@cluster0.wq8l2us.mongodb.net/
+  user: username
+  password: password
+
+redis:
+  host: <hosturl>.db.redis.io
+  db: databasename
+  user: default
+  password: password
+  port: 10449
